@@ -1,6 +1,6 @@
 {
-  "name": "babel-preset-es2020",
-  "version": "1.0.2",
+  "name": "babel-preset-es2040",
+  "version": "1.0.0",
   "description": "Babel preset for a subset of ES6",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,11 @@
     "babel",
     "preset",
     "es2020",
+    "es2040",
+    "tc39",
+    "es6",
+    "es2015",
+    "es2016",
     "hindsight",
     "nah-mate"
   ],
