@@ -33,6 +33,8 @@ require('babel-core').transform('code', {
 ## See Also
 - [es2040](https://github.com/ahdinosaur/es2040) - browserify transform for a
   subset of ES6
+- [babel-preset-es2020](https://github.com/yoshuawuyts/babel-preset-es2020) -
+  babel preset for more minimal subset
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
