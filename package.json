@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "name": "babel-preset-es2040",
   "description": "Babel preset for a subset of ES6",
   "main": "index.js",
