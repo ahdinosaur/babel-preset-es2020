@@ -8,7 +8,7 @@
     "test": "standard && npm run deps && NODE_ENV=test node test",
     "test:cov": "standard && npm run deps && NODE_ENV=test istanbul cover test.js"
   },
-  "repository": "yoshuawuyts/babel-preset-es2020",
+  "repository": "ahdinosaur/babel-preset-es2020",
   "keywords": [
     "babel",
     "preset",
